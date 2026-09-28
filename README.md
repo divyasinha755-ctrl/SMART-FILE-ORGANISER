@@ -15,7 +15,7 @@ Features
 
 
 Technologies used/ Tools used
-* Python 3
+* Python 3.x
 * VS Code/ IDLE
 * GitHub
 * Command Line Interface(CLI)
