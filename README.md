@@ -41,10 +41,10 @@ Intruction for testing
 
 
 Project structure
-* smart_file_organiser.py
 * README.md
+* screenshot.png
+* smart_file_organiser.py
 * statement.md
-* screenshots
 
 
 Author Information
