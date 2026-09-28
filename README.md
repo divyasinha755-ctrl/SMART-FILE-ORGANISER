@@ -48,7 +48,7 @@ Project structure
 
 
 Author Information
-Developed by: Divya Sinha
-Reg no: 26BCE11195
+* Developed by: Divya Sinha
+* Reg no: 26BCE11195
 
 
