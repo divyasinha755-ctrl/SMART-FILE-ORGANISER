@@ -32,12 +32,11 @@ Installation and run instructions
 Intruction for testing
 * Use sample file names such as:
   'photo.jpg, report.pdf, song.mp3, movie.mp4, program.py'
-* Expected output:
-  'photo.jpg- images folder
-  report.pdf- documents folder
-  song.mp3- audio folder
-  movie.mp4- videos folder
-  program.py- programming folder'
+* Expected output: 'photo.jpg- images folder
+                    report.pdf- documents folder
+                    song.mp3- audio folder
+                    movie.mp4- videos folder
+                    program.py- programming folder'
 
 
 Project structure
