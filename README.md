@@ -40,6 +40,7 @@ Intruction for testing
 
 
 Project structure
+* Project Report
 * README.md
 * screenshot.png
 * smart_file_organiser.py
