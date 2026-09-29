@@ -2,7 +2,7 @@ SMART-FILE-ORGANISER
 
 
 Overview
-* Smart File Organiser is a python project that categorises files based on their extentions such as images, doduments, audio, videos, programming files and others. It demonstrates basic python concepts like loops, conditions and user input while making file organisation simple and systematic.
+* Smart File Organiser is a python project that categorises files based on their extentions such as images, documents, audio, videos, programming files and others. It demonstrates basic python concepts like loops, conditions and user input while making file organisation simple and systematic.
 
 
 Features
