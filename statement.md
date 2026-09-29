@@ -1,5 +1,5 @@
 Problem statement
-* Nowdays, we store many different types of files on our computers, such as photos,
+* In todays digital world, we store many different types of files on our computers, such as photos,
   documents, videos, songs, programming files and many more. When all these files are kept
   together, it becomes difficult to find a particular file.
 
